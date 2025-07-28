@@ -1,6 +1,18 @@
 # recipeapp
 
-This is a Recipe Manger app 
+RecipeApp
+
+RecipeApp is a simple and user-friendly application for managing, browsing, and sharing your favorite recipes. This app allows users to create, edit, and view recipes, making it easy to organize your culinary adventures.
+
+ Features
+
+- Add, edit, and delete recipes
+- Browse all recipes in a user-friendly interface
+- Search and filter recipes by name or ingredients
+- View detailed recipe information, including ingredients and instructions
+- Responsive design for desktop and mobile devices
+Happy Cooking!
+
 
 Github
 https://github.com/RuthWells-RC/recipeapp
