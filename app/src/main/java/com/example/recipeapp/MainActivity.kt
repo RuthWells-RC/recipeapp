@@ -13,7 +13,6 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import androidx.navigation.compose.*
 
-private val Recipe.name: Any
 
 data class Category(val id: Int, val name: String)
 data class Ingredient(val name: String, val amount: String)
